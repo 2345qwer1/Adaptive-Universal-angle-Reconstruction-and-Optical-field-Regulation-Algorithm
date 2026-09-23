@@ -1,1 +1,1 @@
-![说明](figures/result.png)
+![Algorithm Flowchart](figures/Figure2.png)
