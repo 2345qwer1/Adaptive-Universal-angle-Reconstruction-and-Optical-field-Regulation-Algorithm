@@ -1,0 +1,5 @@
+_codex_tmp/
+__pycache__/
+*.py[cod]
+.vscode/
+.agents/
